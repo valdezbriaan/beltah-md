@@ -1,29 +1,29 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## BELTAH-MD V3.0.0 
+## VALDEZ MD V3.0.0 
    ***MADE WITH 💎***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗕𝗘𝗟𝗧𝗔𝗛+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VALDEZ+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+VALD+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahmd)|
+| [![Valdez KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahmd)|
 |----|
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-MD+V3.0.0+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-VALDEZ TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/beltah-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahmd?label=Followers&style=social"></a>
+<a href="https://github.com/beltah-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Valdezmd?label=Followers&style=social"></a>
 <a href="https://github.com/Beltahmd/beltah-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahmd/beltah-md?&style=social"></a>
 <a href="https://github.com/Beltahmd/beltah-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahmd/beltah-md?style=social"></a>
 <a href="https://github.com/Beltahmd/beltah-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahmd/beltah-md?label=Watching&style=social"></a>
   
-## SETUP FOR 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗
+## SETUP FOR VALDEZ 𝗠𝗗
 
 **CLICK HERE 👇 TO FORK**
 
